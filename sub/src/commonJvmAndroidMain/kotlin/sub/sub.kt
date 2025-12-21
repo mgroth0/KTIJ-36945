@@ -1,0 +1,4 @@
+package sub
+
+
+fun commonFunctionFromAnotherModule() {}
